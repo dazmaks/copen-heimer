@@ -14,4 +14,3 @@ require (
 	github.com/jmoiron/jsonq v0.0.0-20150511023944-e874b168d07e // indirect
 	github.com/mattn/go-sqlite3 v1.14.9 // indirect
 )
-

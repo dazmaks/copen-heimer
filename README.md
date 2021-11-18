@@ -1,5 +1,5 @@
 ## copen-heimer
-My rewrite of copen heimer in golang.
+Now I am become Death, the destroyer of worlds.
 
 ## How to use
 1. [Build](#building) the project
